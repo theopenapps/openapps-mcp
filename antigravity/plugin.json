@@ -1,0 +1,22 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "openapps",
+  "displayName": "OpenApps",
+  "description": "Charts, launches, featuring and MCP tools across the ChatGPT, Claude, Cursor, Grok Bot, Perplexity and Muse app stores, from OpenApps data.",
+  "version": "1.0.0",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "Use OpenApps to show the top Productivity apps in the ChatGPT app store",
+    "Use OpenApps to list the Claude connectors launched this week",
+    "Use OpenApps to show which tools an app's MCP server exposes"
+  ],
+  "author": {
+    "name": "The Open Apps, Inc.",
+    "email": "hello@theopenapps.com",
+    "url": "https://theopenapps.com"
+  },
+  "homepage": "https://theopenapps.com",
+  "repository": "https://github.com/tao-inc/openapps-mcp",
+  "license": "MIT",
+  "keywords": ["app store", "app rankings", "top charts", "mcp", "market intelligence"]
+}

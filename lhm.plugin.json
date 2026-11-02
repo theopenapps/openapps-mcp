@@ -1,0 +1,13 @@
+{
+  "identifier": "openapps",
+  "name": "OpenApps",
+  "version": "1.0.0",
+  "description": "Charts, launches, featuring and MCP tools across the ChatGPT, Claude, Cursor, Grok Bot, Perplexity and Muse app stores, from OpenApps data. Works without an account.",
+  "author": "The Open Apps, Inc.",
+  "authorUrl": "https://theopenapps.com",
+  "category": "business",
+  "cloudEndpoint": "https://theopenapps.com/mcp/directory",
+  "homepage": "https://theopenapps.com",
+  "icon": "https://theopenapps.com/icon-512.png",
+  "tags": ["app store", "app rankings", "top charts", "mcp", "market intelligence", "analytics"]
+}

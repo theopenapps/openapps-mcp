@@ -1,0 +1,11 @@
+{
+  "name": "openapps",
+  "version": "1.0.0",
+  "description": "Charts, launches, featuring and MCP tools across the ChatGPT, Claude, Cursor, Grok Bot, Perplexity and Muse app stores, from OpenApps data. Works without an account.",
+  "mcpServers": {
+    "openapps": {
+      "httpUrl": "https://theopenapps.com/mcp/directory"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
