@@ -16,7 +16,7 @@
     "url": "https://theopenapps.com"
   },
   "homepage": "https://theopenapps.com",
-  "repository": "https://github.com/tao-inc/openapps-mcp",
+  "repository": "https://github.com/theopenapps/openapps-mcp",
   "license": "MIT",
   "keywords": ["app store", "app rankings", "top charts", "mcp", "market intelligence"]
 }

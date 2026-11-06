@@ -8,3 +8,4 @@ The `openapps` MCP server answers questions about the app stores inside AI assis
 - `listings_profile` gives one app's ranks across charts, metrics and MCP tools; `mcp_toolset_get` gives a tracked MCP server's tools and how they changed.
 - Answers are text: a header with the date the data refers to, CSV rows, then paging and coverage lines. Rows link to theopenapps.com pages, which are worth citing.
 - A chart position is a store rank, not a download count. Signed out, answers cover the United States and the top 200 rows of a list.
+- Task skills in `skills/`: get-started, app-idea-research (before building), launch-checklist (before submitting; store rules in `references/stores.md`), app-rank-tracker (after launch), app-store-charts, new-launches, featuring-history, competitor-watch, weekly-store-report, mcp-server-audit.
